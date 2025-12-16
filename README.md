@@ -18,7 +18,8 @@ This project presents an interactive Power BI dashboard to analyze personal inco
 The dataset contains personal financial transactions including date, amount, category, and type (income/expense).
 
 ## 📷 Dashboard Preview
-![Dashboard](Images/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
+
 
 ## 🚀 Learnings
 - Built an end-to-end Power BI dashboard
@@ -29,3 +30,4 @@ The dataset contains personal financial transactions including date, amount, cat
 - Power BI dashboard (.pbix)
 - Excel dataset
 - Dashboard screenshots
+
